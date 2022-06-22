@@ -2,7 +2,7 @@
 - projeto de estudo 
 - site de perguntas e respostas copiando modelo do yahoo responde 
 
-##framework usados
+## framework usados
 - express
 - ejs
 - sequelize
